@@ -1,6 +1,6 @@
 {
   "name": "mount-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mount a single page app into a test page (like karma)",
   "main": "index.js",
   "scripts": {
